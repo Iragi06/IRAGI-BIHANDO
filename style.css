@@ -1,0 +1,1653 @@
+body {
+	background-color: white;
+}
+
+#logo {
+	width: 200px;
+	height: 110px;
+	margin-left: 50px;
+	background-image: url("LOGO.jpg");
+}
+
+#menulo {
+	border: 1PX black;
+	width: 1340px;
+	height: 1OOpx;
+	background-color: white;
+	position: fixed;
+	margin-top: -10px;
+	margin-right: 10px;
+	box-shadow: 3PX 2PX 3PX 2PX rgb(124, 118, 118);
+
+
+}
+
+#MENU {
+	border: 1PX SOLID white;
+	width: 1020X;
+	height: 40px;
+	margin-left: 250px;
+	margin-top: -70px;
+}
+
+.suite {
+	border: 2PX SOLID black;
+	width: 110px;
+	height: 60px;
+	text-align: center;
+	margin-left: 940px;
+	margin-top: -10px;
+	background-color: darkred;
+	border-radius: 40px 40px 40px 40px;
+}
+
+
+.suite:hover {
+	background-color: slateblue;
+}
+
+#MILIEU {
+	margin-top: 50px;
+	margin-top: 30px;
+	border: 1PX solid white;
+	width: 1340px;
+	height: 3812px;
+
+}
+
+
+#back1 {
+	border: 1px solid white;
+	width: 1340PX;
+	height: 350px;
+	background-image: url("BACK.PNG");
+}
+
+#back1a {
+	border: 1px solid white;
+	width: 1340PX;
+	height: 350px;
+	background-color: rgba(0, 0, 0,0.7);
+}
+
+#back2 {
+
+	border: 1PX SOLID white;
+	width: 1340PX;
+	height: 400px;
+}
+
+#back2 h1 {
+	text-align: center;
+	margin-top: -80px;
+	font-size: xx-large;
+	font-weight: 400;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tof1 {
+	margin-left: 50px;
+	margin-top: -240px;
+	color: blue;
+	font-size: large;
+}
+
+.tof1 h2 {
+	margin-top: -10px;
+}
+
+.cadret1 {
+	border: 1px SOLID white;
+	width: 250px;
+	height: 200Px;
+	margin-top: -600x;
+	margin-top: 1px;
+	margin-left: 20px;
+
+}
+
+.sanct {
+	border: 2PX SOLID white;
+	width: 250PX;
+	height: 300px;
+	margin-top: -0PX;
+	text-align: center;
+	color: white;
+}
+
+.sanct:hover {
+	background-color: #0000FF;
+}
+
+.sanct p {
+	font-style: italic;
+	margin-top: 100px;
+}
+
+.sanct h2 {
+	margin-top: -10px;
+}
+
+.foi {
+	border: 2PX SOLID white;
+	width: 250PX;
+	height: 300px;
+	margin-left: 550px;
+	margin-top: -305px;
+	text-align: center;
+	color: white;
+}
+
+.foi:hover {
+	background-color: rgb(53, 2, 2);
+	;
+}
+
+.foi h2 {
+	margin-top: -10px;
+	;
+}
+
+.foi P {
+	font-style: italic;
+	margin-top: 100px;
+}
+
+.amour {
+	border: 2PX SOLID white;
+	width: 250PX;
+	height: 300px;
+	margin-left: 1050px;
+	margin-top: -305PX;
+	text-align: center;
+	color: white;
+
+}
+
+.amour:hover {
+	background-color: rgb(165, 13, 13);
+}
+
+.amour a {
+	color: white;
+}
+
+.amour p {
+	font-style: italic;
+	margin-top: 100px;
+}
+
+.amour h2 {
+	margin-top: -10px;
+	;
+}
+
+.tof2 {
+	margin-left: 600px;
+	margin-top: 180px;
+	margin-top: -230px;
+	color: rgb(53, 2, 2);
+	font-size: x-large;
+}
+
+.tof2 h2 {
+	margin-top: -10px;
+	font-size: x-large;
+}
+
+.tof3 {
+	margin-left: 1100px;
+	margin-top: -210px;
+	color: rgb(165, 13, 13);
+	font-size: large;
+}
+
+.tof3 h2 {
+	margin-top: -50px;
+}
+
+.tof4 {
+	margin-left: 1100px;
+	margin-top: -210px;
+
+}
+
+#back3 {
+
+	border: 1PX SOLID white;
+	width: 1340PX;
+	height: 700px;
+	background-color: gray;
+	background-image: url("fleur.jpg");
+}
+
+.creation {
+	margin-left: 100px;
+	margin-top: 150px;
+	font-size: x-large;
+	color: white;
+
+
+}
+
+#back4 {
+
+	border: 1PX SOLID white;
+	width: 1340PX;
+	height: 700px;
+	background: radial-gradient(#fff, #eaf2fb);
+	background-image: url("herva.jpg");
+	background-size: cover;
+}
+
+.creation2 {
+	margin-left: 800px;
+	margin-top: 150px;
+	font-size: x-large;
+	color: white;
+}
+
+#back5 {
+	border: 1px solid white;
+	width: 1340PX;
+	height: 350px;
+	background-color: slateblue;
+	
+}
+
+.verset {
+	text-align: center;
+	margin-top: 100px;
+	font-size: xx-large;
+	color: white;
+}
+
+.verset h2 {
+	margin-top: -10px;
+}
+
+#back6 {
+
+	border: 1PX SOLID white;
+	width: 1340PX;
+	height: 900px;
+	background: radial-gradient(#fff, #eaf2fb);
+	background-image: url("AL.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.vision {
+	margin-left: 100px;
+	font-size: larger;
+	margin-top: 200px;
+}
+
+.vision h2 {
+	margin-top: -20px;
+	color: white;
+}
+
+.vision a:hover {
+	color: black;
+}
+
+.vision a {
+	text-decoration: none;
+	color: white;
+	background-color: slategray;
+	font-size: xx-large;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#back7 {
+
+	border: 1PX SOLID white;
+	width: 1340PX;
+	height: 400px;
+	background-color: dimgrey;
+	background-image: url("");
+}
+
+.don {
+	text-align: center;
+	font-size: x-large;
+	color: white;
+}
+
+.don2 {
+	border: 1px solid white;
+	width: 100px;
+	height: 50px;
+	text-align: center;
+	margin-left: 620px;
+	margin-top: -10px;
+	margin-top: 10px;
+}
+
+.don2:hover {
+	background-color: slategrey;
+	color: #000000;
+}
+
+.don2 a {
+	text-decoration: none;
+	font-size: x-large;
+	color: white;
+
+}
+
+.presentation {
+	text-align: center;
+	margin-top: 130px;
+	font-size: x-large;
+	color: white;
+}
+
+.presentation h3 {
+	margin-top: -35px;
+}
+
+#PIEDS {
+
+	border: 1PX SOLID black;
+	width: 1340PX;
+	height: 510px;
+	background-color: black;
+}
+
+#copy {
+	border: 1px solid black;
+	width: 1340px;
+	height: 80px;
+	margin-top: 20px;
+	background-color: rgb(10, 10, 10);
+	text-align: center;
+}
+
+.log{
+	border: 1px solid white;
+	width: 200px;
+	height:100px;
+	margin-left:150px;
+	margin-top: 50px;
+	background-image: url("log.jpg");
+	border-radius: 10PX 10PX 10PX 10px;
+}
+
+.rend{
+	color: #ffffff;
+	margin-left: 100px;
+
+}
+
+.rend p{
+	font-size: large;
+}
+
+.rend1{
+	color: #ffffff;
+	margin-left: 550px;
+	margin-top: -230px;
+
+}
+
+.rend1 li a{
+	font-style: normal;
+	font-size: large;
+	text-decoration: none;
+	color: white;
+	margin-right: 10px;
+	margin-bottom: auto;
+}
+
+.rend1 li a:hover{ 
+	 color: brown;
+}
+
+.loc{
+	border: 1px solid white;
+	width: 300px;
+	height: 400px;
+	margin-left: 1000px;
+	margin-top: -130px;
+	background-image: url("itineraire.PNG");
+
+}
+
+#copy p {
+	color: white;
+}
+/* lignes de codes  CSS de la page Media*/
+#mil1phbg{
+	border: 1px black solid;
+	width: 1340px;
+	height: 360px;
+	background-image: url(photo.jpg);
+	background-size: 550px;
+	margin-top: -10px;
+	
+}
+#mil1ph{
+	border: 1px black dotted;
+	width: 1340px;
+	height: 360px;
+	margin-top: -361px;
+	background-color: rgba(0,0,0,0.9);
+}
+#Bienvenu{
+	width: 500px;
+	height: 100px;
+	margin-left: 450px;
+	margin-top: 130px;
+}
+#Bienvenu h1{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	animation: h1text 2s infinite;
+}
+@keyframes h1text{
+	0% {
+		color: white;
+	}
+	50% {
+		color: rgb(223, 12, 12);
+	}
+	100% {
+		color: white;
+	}
+}
+.mil2{
+	border: 1px white dotted;
+	width: 1340px;
+	height: 360px;
+	background-color: white;
+}
+.mil2txt{
+	width: 770px;
+	height: 330px;
+	margin-left: 300px;
+	margin-top: 20px;	
+}
+.mil2txt p{
+	font-size: xx-large;
+	text-align: center;
+	font-weight: 500;
+
+}
+#mil3{
+	width: 1340px;
+	height: 2800px;
+	background-color: rgb(41, 40, 39);
+}
+.mil3titre{
+	color: white;
+	width: 800px;
+	height: 260px;
+	margin-left: 300px;
+	text-align: center;
+}
+.mil3titre h2{
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+#mil3btn{
+	width: 1150px;
+	height: 100px;
+	margin-left: 151px;
+	margin-top: -60px;
+}
+.btn1{
+	font-size: 25px;
+	width:150px;
+	height:65px;
+	margin-right: 60px;
+	background-color: transparent;
+	border: 2px white solid;
+	color: white;
+	margin-left: 25px;
+	font-weight: bold;
+}
+.btn1:hover{
+	font-size: 25px;
+	width:150px;
+	height:65px;
+	margin-right: 60px;
+	background-color: white;
+	border: 2px white solid;
+	color: rgb(41, 40, 39);
+	margin-left: 25px;
+	font-weight: bold;
+	cursor: pointer;
+	
+}
+.btn2{
+	font-size: 25px;
+	width:250px;
+	height:65px;
+	margin-right: 60px;
+	background-color: transparent;
+	border: 2px white solid;
+	color: white;
+	margin-left: 25px;
+	font-weight: bold;
+}
+.btn2:hover{
+	font-size: 25px;
+	width:250px;
+	height:65px;
+	margin-right: 60px;
+	background-color: white;
+	border: 2px white solid;
+	color:  rgb(41, 40, 39);
+	margin-left: 25px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.btn3{
+	font-size: 25px;
+	width:200px;
+	height:65px;
+	margin-right: 60px;
+	background-color: transparent;
+	border: 2px white solid;
+	color: white;
+	margin-left: 25px;
+	font-weight: bold;
+}
+.btn3:hover{
+	font-size: 25px;
+	width:200px;
+	height:65px;
+	margin-right: 60px;
+	background-color:white;
+	border: 2px white solid;
+	color:rgb(41, 40, 39);
+	margin-left: 25px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.btn4{
+	font-size: 25px;
+	width:150px;
+	height:65px;
+	margin-right: 60px;
+	background-color: transparent;
+	border: 2px white solid;
+	color: white;
+	margin-left: 25px;
+	font-weight: bold;
+}
+.btn4:hover{
+	font-size: 25px;
+	width:150px;
+	height:65px;
+	margin-right: 60px;
+	background-color: white;
+	border: 2px white solid;
+	color: rgb(41, 40, 39);
+	margin-left: 25px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.mil3photh{
+	width:1340px;
+	height: 400px;
+}
+.mil3photb{
+	width: 1340px;
+	height: 400px;
+}
+.mil3photGauche{
+	width: 500px;
+	height: 400px;
+	margin-left: 170px;	
+}
+
+.mil3phothGaucheph1{
+	width: 500px;
+	height: 350px;
+	background-image: url(nj1.jpg);
+	cursor: pointer;
+}
+.mil3phothGauche2{
+	width: 500px;
+	height: 50px;
+}
+.mil3photDroit{
+	width: 500px;
+	height: 400px;	
+	margin-left: 695px;
+	margin-top: -402px;
+}
+.mil3phothDroitph1{
+	width: 500px;
+	height: 350px;
+	background-image: url(nj2.jpg);
+	cursor: pointer;
+}
+.mil3phothDroit2{
+	width: 500px;
+	height: 50px;
+}
+#mil3photbDroitph1{
+	width: 500px;
+	height: 350px;
+	background-image: url(nj3.jpg);
+	cursor: pointer;
+}
+#mil3photbDroit2{
+	width: 500px;
+	height: 50px;
+}
+#mil3photbGaucheph1{
+	width: 500px;
+	height: 350px;
+	background-image: url(nj4.jpg);
+	cursor: pointer;
+}
+#mil3photbGauche2{
+	width: 500px;
+	height: 50px;
+}
+.mil3txte a{
+ text-decoration: none;
+ color: rgb(199, 193, 193);
+ font-weight: bold;
+	font-size: large;
+ 
+}
+.mil3txte a:hover{
+	text-decoration: underline;
+	color: rgb(199, 193, 193);
+	font-weight: bold;
+	font-size: large;
+ }
+ #MILIEU10{
+	margin-top: 50px;
+	margin-top: 30px;
+	border: 1PX solid white;
+	width: 100%;
+	height: 3300px;
+ }
+ #Mil4{
+	border: 1px white solid;
+	width: 1340px;
+	height: 650px;
+	background-color: white;
+	margin-top: 25px;
+ }
+ #Mil4entete{
+	border: 1px white solid;
+	width: 600px;
+	height: 150px;
+	margin-left: 390px;
+	margin-top: 65px;
+ }
+ #Mil4entete h2{
+	font-size: 37px;
+	font-family: sans-serif;
+	font-weight: normal;
+	text-align: center;
+   cursor: pointer;
+ }
+ #Mil4entete hr{
+	background-color: #000000;
+	color: #000000;
+	border: none;
+	height: 0.08px;
+ }
+ #Mil4photos{
+	width: 1200px;
+	height: 300px;
+	margin-left: 80px;
+
+ }
+ #Mil4phot1{
+	border: 1px white dotted;
+	width: 380px;
+	height: 250px;
+	margin-left: 70px;
+
+ }
+ #Mil4phot1ph{
+	width: 360px;
+	height: 200px;
+	background-image: url(AFFERMISSEMENT.jpg);
+	background-size: 300px;
+	cursor: pointer;
+ }
+ .mil4txte{
+	width: 380px;
+	height: 30px;
+	text-align: left;
+	margin-top: -10px;
+	
+ }
+
+ .mil4txte a{
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+
+ }
+ .mil4txte p :hover{
+	text-decoration: underline;	
+	font-size: 17px;
+	font-weight: bold;
+	color: black;
+ }
+ #Mil4phot2{
+	border: 1px white dotted;
+	width: 380px;
+	height: 250px;
+	margin-left: 440px;
+	margin-top: -252px;
+
+ }
+ #Mil4phot2ph{
+	width: 360px;
+	height: 200px;
+	background-image: url(ALAIN.jpg);
+	background-size: 310px;
+	background-position: center;
+	cursor: pointer;
+ }
+ #Mil4phot3{
+	border: 1px white dotted;
+	width: 380px;
+	height: 250px;
+	margin-left: 810px;
+	margin-top: -252px;
+
+ }
+ #Mil4phot3ph{
+	width: 360px;
+	height: 200px;
+	background-image: url(AFFERMISSEMENT.jpg);
+	background-size: 300px;
+	cursor: pointer;
+ }
+ .troisp{
+	width: 130px;
+	height: 46px;
+	background-image: url(troispoint.png);
+	margin-left: 620px;
+	margin-top: -30px;
+	cursor: pointer;
+ }
+
+ #Mil5entete{
+	width: 600px;
+	height: 150px;
+	margin-left: 390px;
+	margin-top: 65px;
+ }
+ #Mil5entete h2{
+	color: white;
+	font-size: 34px;
+	font-family: sans-serif;
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+   cursor: pointer;
+ }
+ #Mil5entete hr{
+	background-color: white;
+	color: white;
+	border: none;
+	height: 0.08px;
+ }
+ #Mil5phot1{
+	border: 1px transparent;
+	width: 380px;
+	height: 250px;
+	margin-left: 70px;
+}
+ #Mil5phot1ph{
+	width: 360px;
+	height: 200px;
+	background-image: url(Capture.PNG);
+	background-size: 400px;
+	cursor: pointer;
+ }
+ .mil5txte a{
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: none;
+	color: White;
+
+ }
+ .mil5txte p :hover{
+	text-decoration: underline;	
+	font-size: 17px;
+	font-weight: bold;
+	color: white;
+ }
+ #Mil5phot2{
+	border: 1px transparent dotted;
+	width: 380px;
+	height: 250px;
+	margin-left: 440px;
+	margin-top: -252px;
+
+ }
+ #Mil4phot2ph{
+	width: 360px;
+	height: 200px;
+	background-image: url(nj4.jpg);
+	background-size: 310px;
+	background-position: center;
+	cursor: pointer;
+ }
+ #Mil5phot3{
+	border: 1px transparent dotted;
+	width: 380px;
+	height: 250px;
+	margin-left: 810px;
+	margin-top: -252px;
+
+ }
+ #Mil4phot3ph{
+	width: 360px;
+	height: 200px;
+	background-image: url(nj3.jpg);
+	background-size: 300px;
+	cursor: pointer;
+ }
+ .troisp1{
+	width: 105px;
+	height: 26px;
+	background-image: url(troispoints2.png);
+	margin-left: 620px;
+	margin-top: -30px;
+	cursor: pointer;
+ }
+ 
+/* Fin des lignes de codes  CSS de la page Media*/
+
+
+/* lignes de codes  CSS de la page index*/
+
+#MILIEU2 {
+	margin-top: 50px;
+	margin-top: 30px;
+	border: 1PX solid white;
+	width: 1340px;
+	height: 5000px;
+
+}
+
+#back12 {
+	width: 1340px;
+	height: 600px;
+	background-color: brown;
+	text-align: center;
+	background-image: url("APROPOS.jpg");
+}
+
+.e {
+	color: white;
+	font-size: xx-large;
+	font-style: oblique;
+	font-weight: lighter;
+
+}
+
+.dev {
+	border: 4px solid white;
+	width: 500px;
+	height: 60px;
+	margin-left: 420px;
+	color: #fff;
+	margin-top: -30px;
+}
+
+#back13 {
+	border: 1px solid white;
+	width: 1340px;
+	height: 400px;
+	margin-top: -22px;
+	background-color: forestgreen;
+	text-align: center;
+	background-image: url("nons.JPG");
+	background-size: cover;
+	background-position: center;
+}
+
+.contback {
+	margin-top: 80px;
+	color: azure;
+	font-size: larger;
+}
+
+.decouvrir {
+	border: 2PX solid white;
+	width: 150px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: 40px;
+	background-color: #fff;
+
+}
+
+.decouvrir a {
+	color: rgb(45, 13, 71);
+	text-decoration: none;
+	text-align: center;
+	font-size: larger;
+
+}
+
+#back14 {
+	border: 1PX SOLID white;
+	width: 1340PX;
+	height: 500px;
+}
+
+.sancti {
+	border: 2PX SOLID white;
+	width: 250PX;
+	height: 300px;
+	margin-top: -0PX;
+	text-align: center;
+	color: white;
+}
+
+.sancti:hover {
+	background-color: #0000FF;
+}
+
+.sancti p {
+	font-style: italic;
+	margin-top: 100px;
+}
+
+.sancti h2 {
+	margin-top: -10px;
+}
+
+.foie {
+	border: 2PX SOLID white;
+	width: 250PX;
+	height: 300px;
+	margin-left: 550px;
+	margin-top: -305px;
+	text-align: center;
+	color: white;
+}
+
+.foie:hover {
+	background-color: rgb(53, 2, 2);
+	;
+}
+
+.foie h2 {
+	margin-top: -10px;
+	;
+}
+
+.foie P {
+	font-style: italic;
+	margin-top: 100px;
+}
+
+.amoure {
+	border: 2PX SOLID white;
+	width: 250PX;
+	height: 300px;
+	margin-left: 1050px;
+	margin-top: -305PX;
+	text-align: center;
+	color: white;
+
+}
+
+.amoure:hover {
+	background-color: rgb(165, 13, 13);
+}
+
+.amoure a {
+	color: white;
+}
+
+.amoure p {
+	font-style: italic;
+	margin-top: 100px;
+}
+
+.amoure h2 {
+	margin-top: -10px;
+	;
+}
+
+.val {
+	margin-left: 550px;
+	margin-top: -50px;
+}
+
+.pr {
+	border: 1px solid white;
+	width: 500PX;
+	height: 900px;
+	margin-left: 840PX;
+	margin-top: -662px;
+	background-image: url("ALAIN.jpg");
+
+}
+
+#back15 {
+	border: 1px solid black;
+	width: 1340px;
+	height: 700px;
+	background-color: white;
+}
+
+.tito {
+	text-align: center;
+	font-size: larger;
+	color: black;
+}
+
+.tito p {
+	margin-top: -20px;
+	font-size: x-large;
+	color: #2e2b2b;
+}
+
+.pro1 {
+	border: 1px solid white;
+	width: 250px;
+	height: 250px;
+	margin-left: 50px;
+	margin-top: 100PX;
+	background-image: url("SCRIPTONS.jpg");
+	border-radius: 120PX 120PX 120PX 120px;
+}
+
+.pro2 {
+	border: 1px solid white;
+	width: 250px;
+	height: 250px;
+	margin-left: 550px;
+	margin-top: 100PX;
+	margin-top: -250px;
+	background-image: url("MUSIQUE.jpg");
+	border-radius: 120PX 120PX 120PX 120px;
+}
+
+.pro3 {
+	border: 1px solid white;
+	width: 250px;
+	height: 250px;
+	margin-left: 1030px;
+	margin-top: 100PX;
+	margin-top: -250px;
+	background-image: url("AFFERMISSEMENT.jpg");
+	border-radius: 120PX 120PX 120PX 120px;
+}
+
+.pr1 {
+	text-align: left;
+	margin-left: 0px;
+	font-size: larger;
+	text-align: center;
+	margin-right: 1000PX;
+	margin-top: 20px;
+
+}
+
+.pr1 h1 {
+	color: #161515;
+}
+
+.pr1 p {
+	font-size: x-large;
+	margin-top: -30px;
+	color: #2e2b2b;
+}
+
+.pr2 {
+	text-align: left;
+	margin-left: 40px;
+	font-size: larger;
+	margin-top: -170px;
+	text-align: center;
+
+}
+
+.pr2 h1 {
+	color: #161515;
+}
+
+.pr2 p {
+	font-size: x-large;
+	margin-top: -30px;
+	color: #2e2b2b;
+}
+
+.pr3 {
+	text-align: left;
+	margin-left: 1000px;
+	font-size: larger;
+	margin-top: -170px;
+	text-align: center;
+}
+
+.pr3 h1 {
+	color: #161515;
+}
+
+.pr3 p {
+	font-size: x-large;
+	margin-top: -30px;
+	color: #290707;
+}
+
+#back16 {
+	border: 1px solid white;
+	width: 1340px;
+	height: 642px;
+	margin-top: -22px;
+	background-color: rgba(112, 98, 98, 0.7);
+	text-align: center;
+	background-image: url("IMG-20220626-WA0051.jpg");
+	background-size: cover;
+}
+
+.contback2 {
+	margin-top: 140px;
+	color:white;
+	font-size: larger;
+	
+}
+
+.decouvrir2 {
+	border: 1PX solid white;
+	width: 150px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: 40px;
+	background-color: black;
+
+}
+
+.decouvrir2 a {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-size: larger;
+
+}
+
+#back17 {
+	border: 1px solid white;
+	width: 1340px;
+	height: 560px;
+	margin-top: -22px;
+	background-color: rgb(112, 98, 98);
+	text-align: center;
+	background-image: url("INSTRU.jpg");
+}
+
+.contback3 {
+	margin-top: 140px;
+	color:white;
+	font-size: larger;
+	background-color: rgba(231, 226, 226,0.6);
+}
+
+.decouvrir3 {
+	border: 1PX solid white;
+	width: 150px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: 40px;
+	background-color: teal;
+
+}
+
+.decouvrir3 a {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-size: larger;
+
+}
+
+.mission{
+	font-size: xx-large;
+	color: #FFFFFF;
+}
+  
+/*Code CSS PAGES EXTENSIONS*/
+
+#MILIEU3 {
+	margin-top: 50px;
+	margin-top: 30px;
+	border: 1PX solid white;
+	width: 1340px;
+	height: 1000px;
+
+}
+
+#bac1 {
+	border: 1px solid white;
+	width: 1340px;
+	height: 410Px;
+	margin-top: -22px;
+	background-color: rgb(112, 98, 98);
+	text-align: center;
+	background-image: url("IMG-20220626-WA0051.jpg");
+	background-size: 1000px;
+	
+}
+
+.contbac1 {
+	margin-top: 150px;
+	color:white;
+	font-size: larger;
+	background-color: rgba(0, 0, 0,0.8 );
+}
+
+.contbac1 p{
+	 margin-top: -20px;
+	 color: rgb(211, 194, 194);
+
+}
+
+.contTitre{
+	margin-top: 80px;
+	font-size: xx-large;
+	color: white;
+}
+#bac2 {
+	border: 1px solid white;
+	width: 1340px;
+	height: 410Px;
+	margin-top: -615px;
+	background-color: rgb(112, 98, 98);
+	text-align: center;
+    
+}
+
+.ext1{
+	border: 1PX SOLID black;
+	width: 300PX;
+	height: 300PX;
+	margin-top:45px;
+	margin-left: 65px;
+	background-color: white;
+	
+}
+
+.ext2{
+	border: 1PX SOLID black;
+	width: 300PX;
+	height: 300PX;
+	margin-top:-300px;
+	margin-left: 364px;
+	background-color: #080866;
+}
+
+.miss1{
+	text-align: center;
+	margin-top: 80px;
+	color: #000080;
+}
+
+.miss2{
+	text-align: center;
+	margin-top: 80px;
+	color: white;
+}
+
+.miss3{
+	text-align: center;
+	margin-top: 80px;
+	color: #000080;
+}
+
+.miss4{
+	text-align: center;
+	margin-top: 80px;
+	color: white;
+}
+
+
+
+.ext3{
+	border: 1PX SOLID black;
+	width: 300PX;
+	height: 300PX;
+	margin-top:-300px;
+	margin-left: 655px;
+	background-color: white;
+}
+
+.ext4{
+	border: 1PX SOLID black;
+	width: 300PX;
+	height: 300PX;
+	margin-top:-300px;
+	margin-left: 950px;
+	background-color: #000080;
+}
+
+.Context1{
+border: 1PX SOLID #000080;
+width: 250px;
+height: 40px;
+margin-left: 20px;
+margin-top: 60PX;
+
+}
+
+.Context1 a{
+	  text-decoration: none;
+	  font-size: x-large;
+	  color: #000080;
+	 	
+}
+
+.Context2{
+	border: 1PX SOLID white;
+	width: 250px;
+	height: 40px;
+	font-size: x-large;
+	margin-top: 60PX;
+	margin-left: 20px;
+	}
+
+	.Context2 a{
+		text-decoration: none;
+		font-size: x-large;
+		color: white;
+		margin-top: 10px;
+  }
+
+	.Context3{
+		border: 1PX SOLID #000080;
+		width: 250px;
+		height: 40px;
+		margin-left: 20px;
+		margin-top: 60PX;
+		
+}
+
+.Context3 a{
+	text-decoration: none;
+	font-size: x-large;
+	color: #000080;
+}
+.Context4{
+	border: 1PX SOLID white;
+	width: 250px;
+	height: 40px;
+	margin-left: 20px;
+	margin-top: 60PX;
+	
+}
+
+.Context4 a{
+	text-decoration: none;
+	font-size: x-large;
+	color: #000080;
+	color: white;	
+}
+
+/*STYLE DE LA PAGE FAIRE UN DON*/
+
+#MILIEU4 {
+	margin-top: 50px;
+	margin-top: 30px;
+	border: 1PX solid white;
+	width: 1340px;
+	height: 2000px;
+
+}
+
+.don1{
+	border: 1px solid white;
+	width: 1340px;
+	height: 500PX;
+}
+
+.don1 P{
+	margin-left: 800px;
+	margin-top: 110px;
+	font-size: 25PX;
+}
+
+.interieur{
+	border: 1px solid white;
+	width: 1340px;
+	height: 300PX;
+	background-image: url("FAIRE\ UN\ DON.PNG");
+	background-size: cover;
+
+}
+
+ .formulaireDon{
+	border: 1px solid white;
+	width: 1340px;
+	height: 800PX;
+	background-image: url("frappe2.PNG");
+	background-size: cover;
+	background-position: center;
+ }
+
+ .form{
+	border: 1px solid white;
+	width: 400px;
+	height: 700PX;
+	margin-left: 150px;
+	margin-top: 30px;
+ }
+
+ .espace{
+	border: 1PX solid white;
+	width: 1340PX;
+	height: 650px;
+	background-image: url("frappe.PNG");
+	background-size: cover;
+	background-position: center;
+ }
+
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: #ffffff;
+
+	/* for pull-down menu to work in IE6*/
+	behavior: url("csshover2.htc");
+
+}
+
+/* pull-down mainmenu css */
+.mainmenu {
+	float: left;
+	width: 100%;
+	padding: 0;
+}
+
+.mainmenu ul {
+	float: left;
+	width: 100%;
+	list-style: none;
+	line-height: 1;
+	color: #000000;
+	background: #FFFFFF;
+	padding: 0;
+	/*border: solid #A0A0A4;*/
+	border-width: 1px 0;
+	margin: 0 0 1em 0;
+}
+
+.mainmenu a,
+.mainmenu a:visited {
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: underline;
+	color: #000000;
+	text-decoration: none;
+	padding: 1em 1em;
+	font-size: large;
+}
+
+.mainmenu ul ul a {
+	width: 100%;
+	height: 100%;
+
+}
+
+.mainmenu ul a {
+	width: 1%;
+
+}
+
+
+.mainmenu li {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.mainmenu ul li {
+	float: left;
+	position: relative;
+}
+
+.mainmenu ul li a {
+	white-space: nowrap;
+}
+
+.mainmenu li ul {
+	position: absolute;
+	left: -999em;
+	height: auto;
+	width: 15em;
+
+	background: #000080;
+	font-weight: normal;
+	border-width: 1px;
+	margin: 0;
+}
+
+.mainmenu li li {
+	width: 15em;
+}
+
+.mainmenu li li a {
+	width: 13em;
+}
+
+.mainmenu li ul {
+	margin: 0;
+}
+
+.mainmenu li ul ul {
+	margin: -2.8em 0 0 13.5em;
+}
+
+.ul_ch,
+.mainmenu li:hover ul ul,
+.mainmenu li li:hover ul ul,
+.mainmenu li li li:hover ul ul,
+.mainmenu li li li li:hover ul ul,
+.mainmenu li li li li li:hover ul ul {
+	left: -999em;
+}
+
+.mainmenu li:hover ul,
+.mainmenu li li:hover ul,
+.mainmenu li li li:hover ul,
+.mainmenu li li li li:hover ul,
+.mainmenu li li li li li:hover ul {
+	left: auto;
+}
+
+.mainmenu li:hover>ul.ul_ch {
+	left: auto;
+}
+
+.mainmenu li:hover {
+	background: #FFFFFF;
+}
+
+.mainmenu li:hover a,
+.mainmenu li:hover a:visited,
+.mainmenu li:hover a:hover,
+.mainmenu li a:hover {
+	color: #000080;
+}
+
+.mainmenu li:hover li a,
+.mainmenu li li:hover li a,
+.mainmenu li li li:hover li a,
+.mainmenu li li li li:hover li a,
+.mainmenu li:hover li a:visited,
+.mainmenu li li:hover li a:visited,
+.mainmenu li li li:hover li a:visited,
+.mainmenu li li li li:hover li a:visited {
+	color: #FFFFFF;
+}
+
+.mainmenu li li:hover,
+.mainmenu li li li:hover,
+.mainmenu li li li li:hover,
+.mainmenu li li li li li:hover,
+.mainmenu li li li li li li:hover {
+	background: #FFFFFF;
+	z-index: 9999;
+}
+
+.mainmenu li li:hover a,
+.mainmenu li li li:hover a,
+.mainmenu li li li li:hover a,
+.mainmenu li li li li li:hover a {
+	color: #0000FF;
+}
+
+.mainmenu ul ul a,
+.mainmenu ul ul a:visited,
+.mainmenu li li a,
+.mainmenu li li a:visited {
+	color: #FFFFFF;
+}
+
+.mainmenu ul ul a:hover,
+.mainmenu li:hover li:hover a,
+.mainmenu li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover a,
+.mainmenu li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover a,
+.mainmenu li:hover li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover a,
+.mainmenu li:hover li:hover li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li:hover a,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li:hover a:visited {
+	color: #0000FF;
+}
+
+.mainmenu li:hover li:hover li a,
+.mainmenu li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li a,
+.mainmenu li:hover li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li a,
+.mainmenu li:hover li:hover li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li a,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li a:visited {
+	color: #FFFFFF;
+}
+
+
+/* end of mainmenu css */
